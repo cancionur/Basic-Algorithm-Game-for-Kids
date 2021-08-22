@@ -10,6 +10,10 @@ There are 2 buttons on the login screen. "Oyuna Başla" button is used for start
 
 https://www.youtube.com/watch?v=xVrUVvd8zLA
 
+## In-Game Images
+
+<img src ="app/src/images/image.jpg">
+
 --------------------------------------------------------------------------------------------
 
 # Çocuklar İçin Temel Algoritma Oyunu 
@@ -25,5 +29,19 @@ Oyunun genel amacı, verilen "Üst", "Alt", "Sağ" ve "Sol" komutlarını bir ü
 ## Oynanış Videosu
 
 https://www.youtube.com/watch?v=xVrUVvd8zLA
+
+## Oyun İçi Görseller
+
+<img src ="app/src/images/image.jpg">
+
+
+
+
+
+
+
+
+
+
 
 
