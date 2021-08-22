@@ -1,9 +1,4 @@
 # Basic-Algorithm-Game-for-Kids
 
-
-asdfsdafsdasfda
-
-
-asdfasdafsd
-
+Çocukların algoritma becerilerini geliştirmeyi sağlayan temel ve eğlenceli bir algoritma oyunu. 
 
