@@ -26,3 +26,4 @@ Oyunun genel amacı, verilen "Üst", "Alt", "Sağ" ve "Sol" komutlarını bir ü
 
 https://www.youtube.com/watch?v=xVrUVvd8zLA
 
+
